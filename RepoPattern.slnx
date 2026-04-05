@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../BookStore.Api/BookStore.Api.csproj" Id="40396fc2-3164-4020-aa71-3b2a05610ec7" />
+  <Project Path="../BookStore.Core/BookStore.Core.csproj" Id="543df643-e404-4bf9-93ee-313e2ab28230" />
+  <Project Path="../BookStore.EF/BookStore.EF.csproj" Id="d6d75e6c-00aa-4c63-bb12-61395489d171" />
+</Solution>
